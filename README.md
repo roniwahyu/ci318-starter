@@ -1,3 +1,6 @@
+## README FIRST
+Codeigniter Rasa Laravel (CILARA)
+
 ## What this?
 1. Codeigniter 3.1.8 + Composer support
 2. Included with blade template engine
